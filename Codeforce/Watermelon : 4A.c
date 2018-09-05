@@ -1,3 +1,5 @@
+//Author : Abdul Alim Shakir
+
 #include<stdio.h>
 int main()
 {
