@@ -1,3 +1,5 @@
+//Author : Abdul Alim Shakir
+
 #include<iostream>
 using namespace std;
 void removeNumber(int numbers[], int idx, int &size)
