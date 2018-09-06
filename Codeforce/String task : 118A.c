@@ -1,3 +1,4 @@
+//Author : Abdul Alim Shakir
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
