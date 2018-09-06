@@ -1,3 +1,4 @@
+//Author : Abdul Alim Shakir
 #include<iostream>
 #include<cstdio>
 using namespace std;
